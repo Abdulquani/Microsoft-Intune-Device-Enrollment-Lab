@@ -8,8 +8,9 @@
    - Successfully authenticated using Entra ID credentials
    - Verified device registration in both Intune and Entra ID
 
-
-
+## Intune Device Enrollment Lab: VM Setup, Admin Permissions, Network Fix & Successful Enrollment
+   https://www.youtube.com/watch?v=Hu19SnJc_DY
+   
 ## Skills demonstrated
    - Microsoft Intune device onboarding
    - Entra ID identity troubleshooting
